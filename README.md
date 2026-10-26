@@ -1,4 +1,4 @@
-# git-branch-conflict-lab
+**Git Branching Experiment - Feature Branch**
 
 Git Branching and Merge Conflict Resolution
 
